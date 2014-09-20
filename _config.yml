@@ -3,7 +3,7 @@ title: Blog
 subtitle: "Journal of Mayur Dhande"
 email: your-email@domain.com
 description: ""
-baseurl: "/blog"
+baseurl: ""
 url: "http://mayurdhande.github.io/"
 twitter_username: "mayur_dhande"
 github_username:  "mayurdhande"
