@@ -1,0 +1,21 @@
+# Site settings
+title: Blog
+subtitle: "Journal of Mayur Dhande"
+email: your-email@domain.com
+description: ""
+baseurl: ""
+url: "http://mayurdhande.github.io"
+twitter_username: "mayur_dhande"
+github_username:  "mayurdhande"
+flickr_username: "49580240@N06"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Pagination
+paginate: 5
+
+# Sass
+sass:
+    style: :compressed
